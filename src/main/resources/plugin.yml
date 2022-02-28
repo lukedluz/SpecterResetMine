@@ -1,0 +1,6 @@
+name: PombaResetMine
+main: tk.davizin.resetmine.ResetMine
+author: Davi913
+version: 1.0
+commands:
+  setmina:
